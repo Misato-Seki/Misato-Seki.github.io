@@ -12,14 +12,14 @@ If you're thinking to yourself, **_This is unbelievable_**, you'd probably be ri
 
 ### Headers
 
-#Header one
-##Header two
-###Header three
-####Header four
-#####Header five
-######Header six
+# Header one
+## Header two
+### Header three
+#### Header four
+##### Header five
+###### Header six
 
-####Colombian Symbolism in _One Hundred Years of Solitude_
+#### Colombian Symbolism in _One Hundred Years of Solitude_
 
 Here's some words about the book _One Hundred Years..._.
 
@@ -122,7 +122,8 @@ However, learning _XHTML_ is difficult because development was ended and there a
 
 ## Exercise 3
 
-[My cats occupied my bed](https://www.youtube.com/watch?v=hnSsQyBykWI)
+My favorite Youtube video is [My cats occupied my bed](https://www.youtube.com/watch?v=hnSsQyBykWI)  
+My favorite picture is  
 ![Tsuna and Mayo](https://pbs.twimg.com/profile_images/1562032384433799168/NvmGqK_6_400x400.jpg)
 
 ## Exercise 4
